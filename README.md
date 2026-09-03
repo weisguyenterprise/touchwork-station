@@ -53,7 +53,7 @@ Download the latest `.deb` from **Releases**.
 Then run:
 
 ```bash
-sudo apt install ./touchworkstation_1.0.0-beta.28_amd64.deb
+sudo apt install ./touchworkstation_1_0_0-beta_9.2.26b_amd64.deb
 ```
 
 After installation:
